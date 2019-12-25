@@ -70,4 +70,4 @@ if (message.content.startsWith(adminprefix + 'stream')) {
 }
 });
 
-client.login("NjU5Mzc5NTcwNDAyNjU2MjY2.XgNdUg.tegf6IGw9kc_HJdh-1AiBWXUxb0");
+client.login("NjU5Mzg1MzExODkzMzg5MzEy.XgNifA.UgR-9lWbL7oJ1GLLQRxwhaVai2w");
